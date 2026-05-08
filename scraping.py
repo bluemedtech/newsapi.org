@@ -6,9 +6,9 @@ from urllib.parse import urlparse
 from datetime import datetime
 import os
 
-FTP_HOST = '77.72.2.106'
-FTP_USER = 'pyagent_os_2024@bricsnow.com'
-FTP_PASS = 'Ftpftp2024$£@!'
+FTP_HOST = 'IP_ADDRESS'
+FTP_USER = 'USR'
+FTP_PASS = 'YOUR_PW'
 HTML_FILE_PATH = 'bootstrap_template/index.html'
 REMOTE_PATH = 'public_html/index.html'
 
